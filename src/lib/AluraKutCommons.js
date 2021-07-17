@@ -111,7 +111,7 @@ AlurakutMenu.Wrapper = styled.header`
     top: 0;
     left: 0;
     right: 0;
-    z-index: 101;
+    z-index: 100;
     @media(min-width: 860px) {
       justify-content: flex-start;
       position:relative;

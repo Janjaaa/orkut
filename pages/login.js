@@ -64,7 +64,7 @@ export default function loginPage(){
             <footer className="box">
               <p>
                 Ainda não é membro? <br />
-                <a href="/login">
+                <a href="https://github.com/signup" target='_blank'>
                   <strong>
                     ENTRAR JÁ
                 </strong>

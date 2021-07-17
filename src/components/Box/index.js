@@ -14,7 +14,7 @@ const Box = styled.div `
         font-weight: 800;
     }
     .title{
-        font-siz: 32px;
+        font-size: 32px;
         font-weight: 400;
         margin-bottom: 20px;
     
